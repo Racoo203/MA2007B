@@ -1,2 +1,1 @@
-# MA2007B
-Uso de geometría y topología para ciencia de datos
+This is an example of a README.md file. You can add a description of your project, instructions on how to use it, and any other information you think is important.
